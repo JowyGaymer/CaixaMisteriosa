@@ -1,0 +1,9 @@
+name: CaixaMisteriosaJowy	
+author: Jowy
+main: CaixaMisteriosa\Jowy\Main
+version: 0.1[BETA]
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
+load: STARTUP
